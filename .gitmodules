@@ -1,3 +1,6 @@
 [submodule "simulator"]
 	path = simulator
 	url = https://github.com/isabellasantiago/simulator.git
+[submodule "nest-api"]
+	path = nest-api
+	url = https://github.com/isabellasantiago/nest-api.git
